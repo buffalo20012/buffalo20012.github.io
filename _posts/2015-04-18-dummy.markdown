@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "Dummy ㅋPost"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Dummy
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+This is just a dummy post. Lorㅋem ipsum and all the rest.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+Lorem ipsum dolor sit amet, ㅋconsectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
