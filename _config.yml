@@ -13,11 +13,6 @@ title: KHD
 subtitle: "System, Network"
 email: kimhdong6828@gmail.com
 name: Kim HyunDong
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://buffalo20012.github.io" # the base hostname & protocol for your site
 cover: "/assets/space.jpg"
