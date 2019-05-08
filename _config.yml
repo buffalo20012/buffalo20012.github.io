@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: KimHyunDong
-subtitle: "NETWORK"
+title: KHD
+subtitle: "System, Network"
 email: kimhdong6828@gmail.com
 name: Kim HyunDong
 description: >
