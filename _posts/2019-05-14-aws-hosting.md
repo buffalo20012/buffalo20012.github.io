@@ -7,8 +7,6 @@ categories: Dummy
 tags: AWS
 ---
 
-# 안뇽
+# AWS EC2 인스턴스
 
-ㄴㅇㄹㄴㅇㄹㄴㄹ
-ㄴㅇㄹㄴㅇㄹ
-
+![아마존 인스턴스](/image/20190514/20190514_AWS.PNG)
