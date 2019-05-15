@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "AWS First Hosting"
+title:  "AWS 호스팅"
 date:   2019-05-14
 author: Kim HyunDong
-categories: Dummy
 tags: AWS
 ---
 
