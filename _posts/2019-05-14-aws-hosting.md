@@ -51,7 +51,7 @@ IBM에서 서비스하는 SOFTLAYER
 
 등등 
 
-그중에서 압도적인 점유률을 기록하고 있는건 Amazon의 AWS
+그중에서 압도적인 점유율을 기록하고 있는건 Amazon의 AWS
 
 
 # AWS EC2 인스턴스
